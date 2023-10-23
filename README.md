@@ -52,5 +52,5 @@ To ensure the success and longevity of the system, future techniques include:
 
 ---
 
-We welcome your feedback and contributions to the DriverPass project. Please feel free to explore the documents in this repository and participate in its development. If you have any questions or suggestions, don't hesitate to contact us.
+
 
