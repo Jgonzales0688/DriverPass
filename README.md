@@ -23,8 +23,8 @@ DriverPass aims to implement a comprehensive system that offers the following ke
 
 This repository includes key documents and information related to the DriverPass project:
 
-- [Business Requirements Document](link-to-document) - Detailed information on business goals, objectives, and technical requirements.
-- [System Design](link-to-document) - Information on system components, purpose, and goals.
+- [Business Requirements Document]([link-to-document](https://github.com/Jgonzales0688/DriverPass/blob/main/CS%20255%20Business%20Requirements%20Document_DriverPass.docx)) - Detailed information on business goals, objectives, and technical requirements.
+- [System Design]([link-to-document](https://github.com/Jgonzales0688/DriverPass/blob/main/CS%20255%20System%20Design%20Document%20Template.docx )) - Information on system components, purpose, and goals.
 
 ## What Was Done Well
 
